@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="For Roselyn" content="Affordable and professional web design">
+	  <meta name="keywords" content="">
+  	<meta name="author" content="Brad Traversy">
+    <title>Mahal kita Rose | About</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="img/favicon.png">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Letter</span> For you</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href=""></a></li>
+            <li class="current"><a href=""></a></li>
+            <li><a href=""></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Mahal na mahal kita 🤗🤗🤗</h1>
+        <form>
+          
+         
+        </form>
+      </div>
+    </section>
+
+    <section id="main">
+      <div class="container">
+        <article id="main-col">
+          <h1 class="page-title">ikaw lang mahal ko</h1>
+          <p>
+because i always love you with all my heart ❤️ di kita iiwan sa lahat ng pagsubok ng mundo satin, papakita ko sayo na kaya ko gawin ang lahat ko makita ko lang na masaya ka 🥹, mahal na mahal kita at goodluck sa game mo tomorrow, cheer lang kita palage 🤗
+          </p>
+          <p class="dark">
+I love you Roselyn Lungcay Alang-ilang 😘💝
+          </p>
+        </article>
+
+        <aside id="sidebar">
+          <div class="dark">
+            <h3>reminder for you </h3>
+            <p> reminder ko po na palage ako andito para lang po sayo, di na magbabago yun, kahit ano mangyari, I'll always be the one who will make safe and comfortable, icocomfort po kita palage promise po 🥹 sorry if ito lang kaya ko po e hehehehe mahal na mahal po kita, i love you forever and ever and always mwuahhh 😘😘😘😘😘😘</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <footer>
+      <p>I love you Mahal ko 😘💖😘💖😘💖💖😘💖😘💖😘💖😘💖💖😘😘</p>
+    </footer>
+  </body>
+</html>
